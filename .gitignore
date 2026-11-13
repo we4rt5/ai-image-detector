@@ -1,0 +1,13 @@
+# данные и модели — большие, в git не кладём
+data/
+*.pth
+*.pt
+
+# окружение Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# системные файлы macOS
+.DS_Store
